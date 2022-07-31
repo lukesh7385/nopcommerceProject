@@ -12,7 +12,7 @@ class Test_003_AddCustomer:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()
     password = ReadConfig.getPassword()
-    logger = LogGen.loggen()
+    logger = loggen()
 
     @pytest.mark.sanity
     def test_addCustomer(self, setup):

@@ -11,7 +11,7 @@ class Test_SearchCustomerByName_005:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()
     password = ReadConfig.getPassword()
-    logger = LogGen.loggen()  # Logger
+    logger = loggen()  # Logger
 
     @pytest.mark.regression
     def test_005_searchCustomerByName(self, setup):
