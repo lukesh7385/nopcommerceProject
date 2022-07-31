@@ -1,17 +1,20 @@
 import pytest
 from selenium import webdriver
 
+options = webdriver.ChromeOptions()
+options.add_experimental_option('excludeSwitches', ['enable-logging'])
+
 
 @pytest.fixture
 def setup(browser):
     if browser == "chrome":
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(options=options)
         print("Launching Chrome browser.......")
     elif browser == "firefox":
         driver = webdriver.Firefox()
         print("Launching Firefox browser.......")
     else:
-        driver = webdriver.Chrome()
+        driver = webdriver.Chrome(options=options)
     return driver
 
 
