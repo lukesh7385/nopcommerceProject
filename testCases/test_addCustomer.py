@@ -5,6 +5,7 @@ from pageObjects.LoginPage import LoginPage
 from pageObjects.AddcustomerPage import AddCustomer
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
+
 from selenium.webdriver.common.by import By
 
 
@@ -12,7 +13,7 @@ class Test_003_AddCustomer:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()
     password = ReadConfig.getPassword()
-    logger = loggen()
+    logger = LogGen.loggen()
 
     @pytest.mark.sanity
     def test_addCustomer(self, setup):
