@@ -9,5 +9,5 @@ class LogGen:
                             level=logging.DEBUG)
 
         logger = logging.getLogger()
-        logger.setLevel(logging.INFO)
+        logger.setLevel(logging.DEBUG)
         return logger
