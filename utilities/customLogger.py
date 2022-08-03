@@ -6,8 +6,8 @@ class LogGen:
     def loggen():
         logging.basicConfig(filename='.\\Logs\\automation.log',
                             format='%(asctime)s- %(levelname)s- %(massage)s', datefmt='%m/%d/%Y %I:%M:%S %p',
-                            level=logging.DEBUG)
+                            level=logging.info)
 
         logger = logging.getLogger()
-        logger.setLevel(logging.DEBUG)
+        logger.setLevel(logging.info)
         return logger
