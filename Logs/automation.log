@@ -10,3 +10,7 @@
 20220815_133705 |      INFO | test_login.py:44 | ************* Login test passed *************
 08/15/2022 01:45:55 PM |      INFO | test_login.py:33 | *************  verifying Login test *************
 08/15/2022 01:46:25 PM |      INFO | test_login.py:44 | ************* Login test passed *************
+08/15/2022 02:03:15 PM |      INFO | test_login.py:33 | *************  verifying Login test *************
+08/15/2022 02:04:07 PM |      INFO | test_login.py:44 | ************* Login test passed *************
+08/15/2022 02:14:14 PM |      INFO | test_login.py:33 | *************  verifying Login test *************
+08/15/2022 02:14:33 PM |      INFO | test_login.py:44 | ************* Login test passed *************
