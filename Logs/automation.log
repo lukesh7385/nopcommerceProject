@@ -1,0 +1,12 @@
+20220815_133532 |      INFO | test_addCustomer.py:19 | *************** Test_003_AddCustomer ***************
+20220815_133559 |      INFO | test_addCustomer.py:28 | *************** Login successful ***************
+20220815_133559 |      INFO | test_addCustomer.py:30 | *************** Starting Add Customer Test ***************
+20220815_133614 |      INFO | test_addCustomer.py:38 | *************** Providing customer info ***************
+20220815_133634 |      INFO | test_addCustomer.py:54 | *************** Saving customer info ***************
+20220815_133634 |      INFO | test_addCustomer.py:56 | *************** Add customer validation started ***************
+20220815_133636 |      INFO | test_addCustomer.py:62 | *************** Add customer test pass ***************
+20220815_133636 |      INFO | test_addCustomer.py:69 | *************** Ending Add Customer Test ***************
+20220815_133640 |      INFO | test_login.py:33 | *************  verifying Login test *************
+20220815_133705 |      INFO | test_login.py:44 | ************* Login test passed *************
+08/15/2022 01:45:55 PM |      INFO | test_login.py:33 | *************  verifying Login test *************
+08/15/2022 01:46:25 PM |      INFO | test_login.py:44 | ************* Login test passed *************
