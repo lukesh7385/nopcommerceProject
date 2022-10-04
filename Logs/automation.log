@@ -18,3 +18,70 @@
 08/15/2022 02:34:23 PM |      INFO | test_login.py:44 | ************* Login test passed *************
 08/15/2022 02:56:37 PM |      INFO | test_login.py:33 | *************  verifying Login test *************
 08/15/2022 02:59:02 PM |      INFO | test_login.py:44 | ************* Login test passed *************
+09/07/2022 12:41:50 AM |      INFO | test_addCustomer.py:19 | *************** Test_003_AddCustomer ***************
+09/07/2022 12:42:10 AM |      INFO | test_addCustomer.py:28 | *************** Login successful ***************
+09/07/2022 12:42:10 AM |      INFO | test_addCustomer.py:30 | *************** Starting Add Customer Test ***************
+09/07/2022 12:42:24 AM |      INFO | test_addCustomer.py:38 | *************** Providing customer info ***************
+09/07/2022 12:42:44 AM |      INFO | test_addCustomer.py:54 | *************** Saving customer info ***************
+09/07/2022 12:42:44 AM |      INFO | test_addCustomer.py:56 | *************** Add customer validation started ***************
+09/07/2022 12:42:46 AM |      INFO | test_addCustomer.py:62 | *************** Add customer test pass ***************
+09/07/2022 12:42:46 AM |      INFO | test_addCustomer.py:69 | *************** Ending Add Customer Test ***************
+09/07/2022 12:42:51 AM |      INFO | test_login.py:33 | *************  verifying Login test *************
+09/07/2022 12:43:10 AM |      INFO | test_login.py:44 | ************* Login test passed *************
+09/07/2022 12:43:54 AM |      INFO | test_addCustomer.py:19 | *************** Test_003_AddCustomer ***************
+09/07/2022 12:44:11 AM |      INFO | test_addCustomer.py:28 | *************** Login successful ***************
+09/07/2022 12:44:11 AM |      INFO | test_addCustomer.py:30 | *************** Starting Add Customer Test ***************
+09/07/2022 12:44:19 AM |      INFO | test_addCustomer.py:38 | *************** Providing customer info ***************
+09/07/2022 12:44:38 AM |      INFO | test_addCustomer.py:54 | *************** Saving customer info ***************
+09/07/2022 12:44:38 AM |      INFO | test_addCustomer.py:56 | *************** Add customer validation started ***************
+09/07/2022 12:44:40 AM |      INFO | test_addCustomer.py:62 | *************** Add customer test pass ***************
+09/07/2022 12:44:41 AM |      INFO | test_addCustomer.py:69 | *************** Ending Add Customer Test ***************
+09/07/2022 12:44:45 AM |      INFO | test_login.py:15 | ************* Test_001_Login *************
+09/07/2022 12:44:45 AM |      INFO | test_login.py:16 | ************* Verifying Home Page Title *************
+09/07/2022 12:44:52 AM |      INFO | test_login.py:23 | *************  Home Page title test is passed *************
+09/07/2022 12:44:56 AM |      INFO | test_login.py:33 | *************  verifying Login test *************
+09/07/2022 12:45:13 AM |      INFO | test_login.py:44 | ************* Login test passed *************
+09/07/2022 12:45:16 AM |      INFO | test_login_ddt.py:16 | *************  Test_002_DDT_Login *************
+09/07/2022 12:45:16 AM |      INFO | test_login_ddt.py:17 | *************  verifying Login DDT test *************
+09/07/2022 12:45:38 AM |      INFO | test_login_ddt.py:42 | **** Passed ****
+09/07/2022 12:45:52 AM |      INFO | test_login_ddt.py:54 | **** Passed ****
+09/07/2022 12:46:03 AM |      INFO | test_login_ddt.py:54 | **** Passed ****
+09/07/2022 12:46:14 AM |      INFO | test_login_ddt.py:54 | **** Passed ****
+09/07/2022 12:46:14 AM |      INFO | test_login_ddt.py:58 | ********* Login DDT test passed *********
+09/07/2022 12:46:15 AM |      INFO | test_login_ddt.py:66 | ********* End of Login DDT Test *********
+09/07/2022 12:46:15 AM |      INFO | test_login_ddt.py:67 | ************** Completed Tc_LoginDDT **************
+09/07/2022 12:46:19 AM |      INFO | test_searchCusstomerByEmail.py:18 | *************** SearchCustomerByEmail_004 ***************
+09/07/2022 12:46:35 AM |      INFO | test_searchCusstomerByEmail.py:27 | *************** Login successful ***************
+09/07/2022 12:46:35 AM |      INFO | test_searchCusstomerByEmail.py:29 | *************** Starting Search Customer By Email ***************
+09/07/2022 12:46:38 AM |      INFO | test_searchCusstomerByEmail.py:34 | *************** Searching Customer By Email_ID  ***************
+09/07/2022 12:46:44 AM |      INFO | test_searchCusstomerByEmail.py:41 | *************** TC_SearchCustomerByEmail_004 Finished  ***************
+09/07/2022 12:46:48 AM |      INFO | test_searchCustomerByName.py:18 | *************** test_005_searchCustomerByName ***************
+09/07/2022 12:47:07 AM |      INFO | test_searchCustomerByName.py:27 | *************** Login successful ***************
+09/07/2022 12:47:07 AM |      INFO | test_searchCustomerByName.py:29 | *************** Starting Search Customer By Name ***************
+09/07/2022 12:47:10 AM |      INFO | test_searchCustomerByName.py:34 | *************** Searching Customer By Name  ***************
+09/07/2022 12:47:17 AM |      INFO | test_searchCustomerByName.py:42 | *************** test_005_searchCustomerByName Finished  ***************
+10/04/2022 05:48:24 PM |      INFO | test_addCustomer.py:19 | *************** Test_003_AddCustomer ***************
+10/04/2022 05:49:22 PM |      INFO | test_addCustomer.py:28 | *************** Login successful ***************
+10/04/2022 05:49:22 PM |      INFO | test_addCustomer.py:30 | *************** Starting Add Customer Test ***************
+10/04/2022 05:49:53 PM |      INFO | test_addCustomer.py:38 | *************** Providing customer info ***************
+10/04/2022 05:50:29 PM |      INFO | test_addCustomer.py:54 | *************** Saving customer info ***************
+10/04/2022 05:50:29 PM |      INFO | test_addCustomer.py:56 | *************** Add customer validation started ***************
+10/04/2022 05:50:31 PM |      INFO | test_addCustomer.py:62 | *************** Add customer test pass ***************
+10/04/2022 05:50:33 PM |      INFO | test_addCustomer.py:69 | *************** Ending Add Customer Test ***************
+10/04/2022 05:50:55 PM |      INFO | test_login.py:15 | ************* Test_001_Login *************
+10/04/2022 05:50:55 PM |      INFO | test_login.py:16 | ************* Verifying Home Page Title *************
+10/04/2022 05:51:05 PM |      INFO | test_login.py:23 | *************  Home Page title test is passed *************
+10/04/2022 05:51:07 PM |      INFO | test_login.py:33 | *************  verifying Login test *************
+10/04/2022 05:52:39 PM |      INFO | test_login_ddt.py:16 | *************  Test_002_DDT_Login *************
+10/04/2022 05:52:39 PM |      INFO | test_login_ddt.py:17 | *************  verifying Login DDT test *************
+10/04/2022 05:53:09 PM |      INFO | test_login_ddt.py:42 | **** Passed ****
+10/04/2022 05:54:54 PM |      INFO | test_searchCusstomerByEmail.py:18 | *************** SearchCustomerByEmail_004 ***************
+10/04/2022 05:56:05 PM |      INFO | test_searchCusstomerByEmail.py:27 | *************** Login successful ***************
+10/04/2022 05:56:05 PM |      INFO | test_searchCusstomerByEmail.py:29 | *************** Starting Search Customer By Email ***************
+10/04/2022 05:56:36 PM |      INFO | test_searchCusstomerByEmail.py:34 | *************** Searching Customer By Email_ID  ***************
+10/04/2022 05:56:42 PM |      INFO | test_searchCusstomerByEmail.py:41 | *************** TC_SearchCustomerByEmail_004 Finished  ***************
+10/04/2022 05:56:46 PM |      INFO | test_searchCustomerByName.py:18 | *************** test_005_searchCustomerByName ***************
+10/04/2022 05:57:27 PM |      INFO | test_searchCustomerByName.py:27 | *************** Login successful ***************
+10/04/2022 05:57:27 PM |      INFO | test_searchCustomerByName.py:29 | *************** Starting Search Customer By Name ***************
+10/04/2022 05:57:38 PM |      INFO | test_searchCustomerByName.py:34 | *************** Searching Customer By Name  ***************
+10/04/2022 05:57:45 PM |      INFO | test_searchCustomerByName.py:42 | *************** test_005_searchCustomerByName Finished  ***************
